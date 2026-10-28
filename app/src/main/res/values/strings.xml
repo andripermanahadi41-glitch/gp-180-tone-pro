@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GP180 Tone Pro</string>
+    <string name="tab_edit">Edit</string>
+    <string name="tab_ai_studio">AI Studio</string>
+    <string name="tab_hardware">GP180 Dial</string>
+    <string name="tab_cloud">Cloud</string>
+    <string name="tab_manage">Manage</string>
+    <string name="instrument_guitar">Guitar</string>
+    <string name="instrument_bass">Bass</string>
+    <string name="btn_test_tone">TEST TONE</string>
+    <string name="btn_stop_tone">STOP</string>
+    <string name="ai_optimized">AI OPTIMIZED</string>
+</resources>

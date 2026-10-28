@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GP180 Tone Pro</string>
+    <string name="tab_edit">Edit Rantai</string>
+    <string name="tab_ai_studio">Studio AI</string>
+    <string name="tab_hardware">Dial GP-180</string>
+    <string name="tab_cloud">Cloud Preset</string>
+    <string name="tab_manage">Kelola Preset</string>
+    <string name="instrument_guitar">Gitar</string>
+    <string name="instrument_bass">Bass</string>
+    <string name="btn_test_tone">TES NADA</string>
+    <string name="btn_stop_tone">BERHENTI</string>
+    <string name="ai_optimized">OPTIMASI AI</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "GP180 Tone Pro",
+  "description": "AI Multi-Effects Preset Maker & Tone Optimizer for Valeton GP-180 with Cloud Sync",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
